@@ -54,4 +54,4 @@ Set update interval time at least 1000(ms) to get better result.
 ### Author
 
 **Ren Wan**  
-[Android Performance Monitor](https://github.com/PurpleBooth)
+[Android Performance Monitor](https://github.com/wanren13/android_performace_monitor/)
