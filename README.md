@@ -30,7 +30,7 @@ Run with specified adb path:
 ```
 ptyhon android_monitor.py 1000 -p sdk/adb -r 20 
 ```
-Run with specified output path. The result will be saved in *out.json* in following case:
+Run with specified output path. The result will be saved in *out.json* once the program stops running:
 ```
 python android_monitor.py 1000 -o out.json 
 ```
